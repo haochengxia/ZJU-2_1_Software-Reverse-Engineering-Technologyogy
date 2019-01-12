@@ -1,0 +1,13 @@
+1. 用OllyDbg+IDA Pro(可以只用其中之一)
+   分析reverse2018.exe, 找到与注册码计算
+   相关的函数, 写出分析报告。分析报告
+   内容包括推理过程、跟踪步骤、核心代码
+   注释。
+
+2. 用VC6编写注册机程序, 输入一个MachineCode, 
+   输出一个正确的注册码。该注册机程序
+   的工程创建请按以下步骤进行:
+   File->New->Projects->Win32 Console Application
+
+3. 分析报告请命名为"reverse01.pdf"; VC6工程文件夹请
+   命名为"reverse01"。
